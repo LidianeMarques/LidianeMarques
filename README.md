@@ -3,7 +3,7 @@
  <hr/> 
  
 <p> Sou formada em Sistemas para Internet, faço trabalhos freelancer com modelagem e criação de banco de dados, desenvolvimento e aplicativos em android nativo. <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="30"></p>
-<p>Meu dou super bem com Java, mas meu amor é o Python! :revolving_hearts: caminho muito bem pelo back-end mas gosto mesmo é de front-end :sunglasses: </p>
+<p>Meu dou super bem com Java, mas meu amor é o Python! :revolving_hearts: </p>
 
 * Amo aprender novas tecnologias e linguagens, 
 * Estou me aventurando a conhecer AWS, pretendo obter ourtos certificados...
